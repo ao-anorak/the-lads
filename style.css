@@ -1,6 +1,7 @@
 body
 {
-    background-color: purple;
+    background-color: #301934;
+    backdrop-filter: blur(5);
 }
 h1
 {
