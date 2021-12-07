@@ -1,10 +1,11 @@
 body
 {
     background-image: url(664292.jpg);
-    background-position: auto;
+    background-position: absolute;
     background-size: cover;
     height: 100%;
     width: 90%;
+    
 }
 h1
 {
