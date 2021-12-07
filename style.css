@@ -1,9 +1,9 @@
 body
 {
-    background-color: #301934;
-    backdrop-filter: blur(5);
+    background-color: #301934
 }
 h1
 {
-    color: 	whitesmoke
+    color: 	whitesmoke;
+    backdrop-filter: blur(5);
 }
