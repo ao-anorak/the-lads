@@ -3,9 +3,10 @@ body
     background-image: url(664292.jpg);
     background-position: fixed;
     background-size: cover;
+    background-repeat: no-repeat;
     height: 100%;
     width: 90%;
-    
+    filter: blur(8px);
 }
 h1
 {
@@ -14,10 +15,11 @@ h1
 }
 .typewriter
 {
-    font-size: xx-large;
-    text-align: center;
-    font-weight: 700;
-    color: aliceblue;
+    position:absolute
+    font-size:xx-large;
+    text-align:center;
+    font-weight:700;
+    color:aliceblue;
 }
 .purpose
 {
