@@ -2,7 +2,7 @@ body
 {
     background-image: url(664292.jpg);
     background-position: fixed;
-    background-size: cover;
+    background-size: fill;
     background-repeat: no-repeat;
     height: 100%;
     width: 90%;
