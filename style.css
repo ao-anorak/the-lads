@@ -1,8 +1,27 @@
 body
 {
-    background-color: #301934;
+    background-image: url(710118.jpg);
+    background-position: auto;
+    background-size: cover;
+    height: 100%;
+    width: 90%;
 }
 h1
 {
     color: white;
+    text-align: center;
+}
+.typewriter
+{
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 700;
+    color: aliceblue;
+}
+.purpose
+{
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    size: 100%;
 }
